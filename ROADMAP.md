@@ -1,3 +1,216 @@
-# Learning Roadmap
+# \# Learning Roadmap
 
-(To be filled in after the assistant provides the multi-week plan.)
+# 
+
+# Journal and roadmap for my GitHub + GitHub Desktop learning as a non-developer manager, based on DeDaydreamer/thedaydreamverse-site.
+
+# 
+
+# ---
+
+# 
+
+# \## Week 1 – Foundations + Markdown basics
+
+# 
+
+# Focus:
+
+# \- Get comfortable with GitHub in the browser and GitHub Desktop.
+
+# \- Understand forks, clones, and commits as "snapshots with explanations".
+
+# \- Use Markdown for simple, clear text in this journal.
+
+# 
+
+# Git / GitHub goals:
+
+# \- Star, Watch, and Fork DeDaydreamer/thedaydreamverse-site.
+
+# \- Clone Electrum1210/thedaydreamverse-site and github-learning-journal with GitHub Desktop.
+
+# \- Make small non-code changes (markdown edits, simple text files), commit, and push.
+
+# 
+
+# Markdown goals:
+
+# \- Use `#` and `##` headings in README.md and ROADMAP.md.
+
+# \- Write paragraphs with blank lines between them.
+
+# \- Create bullet lists with `-` and numbered lists with `1.`.
+
+# \- Use \*\*bold\*\* and \*italic\* for emphasis with `\\\*\\\*` and `\\\*`.
+
+# 
+
+# Manager angle:
+
+# \- Treat Markdown as the layout language for decisions, notes, and learning logs, not as code.
+
+# 
+
+# ---
+
+# 
+
+# \## Week 2 – Structure, history, and Markdown for organization
+
+# 
+
+# Focus:
+
+# \- Read the folder/file structure of DeDaydreamer/thedaydreamverse-site and your fork.
+
+# \- Open commit history and see it as a sequence of decisions and risks.
+
+# 
+
+# Git / GitHub goals:
+
+# \- View commit history for:
+
+#   - DeDaydreamer/thedaydreamverse-site (upstream).
+
+#   - Electrum1210/thedaydreamverse-site (your fork).
+
+# \- Open individual commits and read messages for clarity and scope.
+
+# \- Notice patterns like "feat:", "fix:", "chore:", "docs:" if present.
+
+# 
+
+# Markdown goals:
+
+# \- Improve ROADMAP.md using:
+
+#   - Nested lists to break down lessons.
+
+#   - Links: `\\\[text](URL)` to reference your fork and important pages.
+
+#   - A simple table (e.g., safe vs risky changes from a manager’s view).
+
+# 
+
+# Manager angle:
+
+# \- Connect clear structure in files and docs to clear structure in the organization.
+
+# \- Use Markdown structure to reflect how you group and prioritize work.
+
+# 
+
+# ---
+
+# 
+
+# \## Week 3 – Forks, upstream, and Markdown in communication
+
+# 
+
+# Focus:
+
+# \- Understand forks vs upstream and how changes flow back using pull requests.
+
+# \- Think about changes as proposals and conversations, not just code edits.
+
+# 
+
+# Git / GitHub goals:
+
+# \- Compare your fork’s branches/commits to upstream for divergence.
+
+# \- Learn the concept of a pull request (PR) as "a formal proposal to merge changes".
+
+# \- Practice opening a draft PR from your fork to your fork (no real production impact).
+
+# 
+
+# Markdown goals:
+
+# \- Draft PR descriptions using:
+
+#   - Headings like "Context", "Changes", "Risk".
+
+#   - Bullet lists for scope and impact.
+
+#   - Task lists with `- \\\[ ]` as lightweight checklists.
+
+# 
+
+# Manager angle:
+
+# \- Use Markdown in PRs and issues to communicate expectations, scope, and risk clearly.
+
+# \- Treat PR descriptions as decision briefs a stakeholder can quickly understand.
+
+# 
+
+# ---
+
+# 
+
+# \## Week 4+ – Quality signals, reviews, and Markdown playbook
+
+# 
+
+# Focus:
+
+# \- Spot red flags and good signals in repos, commits, and PRs.
+
+# \- Develop your own manager review checklist.
+
+# 
+
+# Git / GitHub goals:
+
+# \- Inspect branches, tags, releases (if any) in thedaydreamverse-site.
+
+# \- Identify whether releases or tags exist and what they might represent.
+
+# \- Review real commits and (later) PRs like a manager: scope, risk, communication quality.
+
+# 
+
+# Markdown goals:
+
+# \- Create CHECKLIST.md or REVIEW-GUIDE.md in this journal with:
+
+#   - Sections for "Repo structure", "Commit messages", "Release readiness", etc.
+
+#   - Checklists and tables for "good signals vs red flags".
+
+#   - Links to specific commits or PRs as examples.
+
+# 
+
+# Manager angle:
+
+# \- Use Markdown documents as your persistent decision records and review templates.
+
+# \- Aim for communication that another manager could pick up and use without you.
+
+# 
+
+# ---
+
+# 
+
+# \## Progress Log Pattern
+
+# 
+
+# Use this structure in separate journal files (for example, /journal/2025-01-15.md):
+
+# 
+
+# \- What I did today (specific actions).
+
+# \- What I learned (in manager language).
+
+# \- Questions to ask Aleks or another developer.
+
+# \- Last completed marker to update in README.md or at the top of ROADMAP.md.
+
