@@ -18,7 +18,9 @@
 
 # 
 
-# \- Last completed: Setup in progress (before Lesson 1)
+# \- Last completed: Setup complete (before Lesson 1 – roadmap and Markdown plan added)
+
+
 
 # 
 
