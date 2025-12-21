@@ -12,7 +12,15 @@
 
 # \## Week 1 – Foundations + Markdown basics
 
-# 
+# ## Safe vs risky changes (manager view)
+
+| Type of change                     | Why it feels safe or risky (manager view)           |
+|------------------------------------|-----------------------------------------------------|
+| Tiny README wording tweak          | Low blast radius, easy to review, easy to roll back |
+| New feature touching many files    | Higher risk: more moving parts and dependencies     |
+| Config change for production       | Potentially high risk: can break deployment         |
+| Cosmetic UI text change only       | Usually safe, but still needs clear commit message  |
+
 
 # Focus:
 
