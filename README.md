@@ -18,7 +18,7 @@
 
 # 
 
-# \- Last completed: Week 1, Lesson 1 – Upstream vs fork and first Markdown change in README
+# \- Last completed: Week 1, Lesson 2 – Commit history overview and safe vs risky change table
 
 
 
