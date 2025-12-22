@@ -18,7 +18,7 @@
 
 # 
 
-# \- Last completed: Week 1, Lesson 4 – Initial repo map for thedaydreamverse-site
+# \- Last completed: Week 1, Lesson 5 – README and config checklists added
 
 
 
