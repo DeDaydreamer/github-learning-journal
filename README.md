@@ -18,7 +18,7 @@
 
 # 
 
-# \- Last completed: Week 1, Lesson 2 – Commit history overview and safe vs risky change table
+# \- Last completed: Week 1, Lesson 4 – Initial repo map for thedaydreamverse-site
 
 
 
