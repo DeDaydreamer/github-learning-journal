@@ -18,7 +18,7 @@
 
 # 
 
-# \- Last completed: Week 1, Lesson 6 – Branches/tags/releases risk table
+# \- Last completed: Week 1, Lesson 7 – Draft PR created and checklist added
 
 
 
