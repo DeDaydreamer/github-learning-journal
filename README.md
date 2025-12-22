@@ -18,7 +18,7 @@
 
 # 
 
-# \- Last completed: Week 1, Lesson 5 – README and config checklists added
+# \- Last completed: Week 1, Lesson 6 – Branches/tags/releases risk table
 
 
 
