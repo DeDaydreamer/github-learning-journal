@@ -222,3 +222,12 @@
 
 # \- Last completed marker to update in README.md or at the top of ROADMAP.md.
 
+## Repo map – thedaydreamverse-site (manager view)
+
+- Core / app code:
+  - [Functions, tests,.]
+- Configuration and build:
+  - [package.json, .github.]
+- Documentation and communication:
+  - [README.md, about, articles, contact, index, posts, sitemap, robots.]
+
