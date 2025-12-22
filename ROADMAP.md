@@ -262,4 +262,13 @@ In `package.json` or similar config, I look for:
 - README: [Project purpose and usage are explained clearly; run/deploy, ownership, and basic risks are all covered well enough for a manager to understand the system at a glance.]
 - package.json: [Run and test scripts are present, giving a clear way to start and validate the app; dependencies look modest, with no obvious high‑risk platform commitments at this stage].
 
+## Branches/tags/releases – risk markers (manager view)
+
+| Name | Type | What decision it represents | Risk level (manager view) |
+|------|------|-----------------------------|---------------------------|
+| main | branch | Current source of truth | Low (if tested) |
+| [No other branches]
+| [No other tags/releases]
+
+
 
