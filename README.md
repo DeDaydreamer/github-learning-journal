@@ -18,7 +18,9 @@
 
 # 
 
-# \- Last completed: Week 2, Lesson 1 – Folder risk zones mapped
+# \- Last completed: Week 2, Lesson 2 – Commit history timeline
+
+
 
 
 
