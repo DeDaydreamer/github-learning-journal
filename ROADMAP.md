@@ -296,7 +296,17 @@ My draft PR example: [https://github.com/DeDaydreamer/thedaydreamverse-site/pull
 - `posts/`, `about/`, etc. – content files
 - `README.md` – project overview
 
+## Commit patterns observed (Week 2 Lesson 2)
 
+| Commit message                                                     | Files changed                                | Risk level | Manager notes                                          |
+|--------------------------------------------------------------------|----------------------------------------------|------------|--------------------------------------------------------|
+| Update clear-mornings.html                                         | posts/updates (1 html)                       | Low        | Content only                                           |
+| CSS                                                                | .gitignore, assets/styles.css (2 files)      | Medium     | Config + styling; limited but not zero risk           |
+| Hero image mod                                                     | welcome-to.png                               | High       | Affects key visual asset; check impact on layout/UX    |
+| Track posts/first-post.html: allow local draft and update .gitignore | .gitignore, posts/first-post.html          | Medium     | Config + content; .gitignore change needs attention   |
+| Update about.html                                                  | about.html                                   | Low        | Small content change                                  |
+| build: pull private vault content during deploy                    | tools/pull-vault.sh                          | High       | Build/deploy behaviour; needs strong review/testing   |
+| Initial commit: thedaydreamverse site (vault content excluded)     | ~36 files (.config, api, etc.)              | High       | Many files incl. config/api; foundational, broad risk |
 
 
 
