@@ -18,7 +18,9 @@
 
 # 
 
-# \- Last completed: Week 3, Lesson 3 – Manager feedback on PRs
+# \- Last completed: Week 4, Lesson 1 – Repo quality signals
+
+
 
 
 
