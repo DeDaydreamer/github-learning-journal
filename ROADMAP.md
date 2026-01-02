@@ -347,4 +347,25 @@ For each pull request, I will check:
 
 Example PR: https://github.com/DeDaydreamer/thedaydreamverse-site/pull/1
 
+## Week 3 – PR feedback template (manager voice)
+
+When reviewing a PR, I will aim to comment like this:
+
+**1. Summary (what I see)**
+- “This PR changes [area/files] and appears [low/medium/high] risk because [reason].”
+
+**2. Questions (clarity and risk)**
+- “Can you clarify [context/impact]?”
+- “What testing or checks have you done?”
+- “What could go wrong if we merge this as-is?”
+
+**3. Decision**
+- Approve: “I’m comfortable approving this because [reason: scope, tests, low risk].”
+- Request changes: “Before approving, I need [specific change or clarification].”
+- Block (rare): “I can’t approve this in its current form because [major risk/uncertainty].”
+
+Example (for PR #1):
+- Summary: Docs-only change to README; very low risk.
+- Question: Will this note be relevant to other contributors?
+- Decision: Approve once wording is confirmed.
 
