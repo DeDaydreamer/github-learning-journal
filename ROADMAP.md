@@ -318,4 +318,14 @@ My draft PR example: [https://github.com/DeDaydreamer/thedaydreamverse-site/pull
 | Cosmetic UI or content text change only        | Usually safe, but still needs clear commit message  |
 | Single function/api behaviour change           | High risk: behaviour changes; requires strong review |
 
+## Week 3 Lesson 1 – Fork vs upstream divergence
+
+Current state:
+- My fork (Electrum1210/thedaydreamverse-site) is 1 commit ahead of upstream main.
+- My additional commit(s) are:
+  - Docs: add manager learning note to README.
+
+Manager interpretation:
+- Ahead commits = decisions made in my sandbox that are not yet in the source-of-truth.
+- Even for docs-only changes, a PR should clearly explain Context / Changes / Risk before merge.
 
