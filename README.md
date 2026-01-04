@@ -10,7 +10,7 @@
 
 # 
 
-# (Roadmap will live in ROADMAP.md)
+# (Roadmap will live in \[ROADMAP.md](ROADMAP.md))
 
 # 
 
@@ -18,7 +18,7 @@
 
 # 
 
-# \- Last completed: Week 4, Lesson 4 – Summary dashboard + questions list
+# \- \*\*Last completed\*\*: Week 4, Lesson 4 – Summary dashboard + questions list
 
 
 
